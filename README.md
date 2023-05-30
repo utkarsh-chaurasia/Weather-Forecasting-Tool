@@ -1,5 +1,7 @@
+	
+# Microsoft GitHub Copilot Hackathon
 # Project: Weather Forecast Command-Line Tool
-
+	
 
 ### Introduction:
 The Weather Forecast Command-Line Tool is a Python-based application that allows users to retrieve the current weather forecast for a specific city. The tool leverages the OpenWeatherMap API to fetch weather data and utilises Python for data parsing and error handling. This project aims to demonstrate how GitHub Copilot can assist developers in implementing API usage, data parsing, and error handling efficiently.
