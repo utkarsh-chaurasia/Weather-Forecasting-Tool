@@ -30,6 +30,10 @@ tabulate: The tabulate library is used for formatting tabular data. It helps pre
 ### Conclusion:
 The Weather Forecast Command-Line Tool demonstrates how GitHub Copilot can significantly assist developers in implementing API usage, data parsing, and error handling. By providing accurate code completions and suggestions, Copilot enhances productivity and reduces the development time required for these tasks. The tool showcases the potential of AI-powered code completion tools in streamlining the development process and ensuring efficient utilisation of external APIs. Through its integration with Copilot, the Weather Forecast Command-Line Tool exemplifies the benefits of leveraging AI capabilities to simplify complex programming tasks and improve code quality.
 
+### Run this command in your terminal to install dependencies
+![WhatsApp Image 2023-05-31 at 3 05 13 AM](https://github.com/utkarsh-chaurasia/Weather-Forecasting-Tool/assets/52343042/3a010611-e094-4724-a6c6-5f0a30a0c563)
+
+
 
 ### Working:
 ### Code :
